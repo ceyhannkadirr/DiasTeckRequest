@@ -1,0 +1,13 @@
+C:\Users\Kadir\source\repos\MegCubeService\MegCubeService\bin\Debug\MegCubeService.exe.config
+C:\Users\Kadir\source\repos\MegCubeService\MegCubeService\bin\Debug\MegCubeService.exe
+C:\Users\Kadir\source\repos\MegCubeService\MegCubeService\bin\Debug\MegCubeService.pdb
+C:\Users\Kadir\source\repos\MegCubeService\MegCubeService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kadir\source\repos\MegCubeService\MegCubeService\bin\Debug\RestSharp.Authenticators.Digest.dll
+C:\Users\Kadir\source\repos\MegCubeService\MegCubeService\bin\Debug\RestSharp.dll
+C:\Users\Kadir\source\repos\MegCubeService\MegCubeService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kadir\source\repos\MegCubeService\MegCubeService\bin\Debug\RestSharp.xml
+C:\Users\Kadir\source\repos\MegCubeService\MegCubeService\obj\Debug\MegCubeService.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\source\repos\MegCubeService\MegCubeService\obj\Debug\MegCubeService.csproj.CopyComplete
+C:\Users\Kadir\source\repos\MegCubeService\MegCubeService\obj\Debug\MegCubeService.exe
+C:\Users\Kadir\source\repos\MegCubeService\MegCubeService\obj\Debug\MegCubeService.pdb
+C:\Users\Kadir\source\repos\MegCubeService\MegCubeService\obj\Debug\MegCubeService.csproj.AssemblyReference.cache

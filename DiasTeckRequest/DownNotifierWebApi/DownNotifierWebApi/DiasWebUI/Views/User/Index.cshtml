@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<a class="btn btn-primary float-lg-right" href="/user/addUser">Add User</a>
+
+<h1>Kullanıcılar</h1>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Kullanıcı Adı</th>
+            <th>Güncelle</th>
+            <th>Sil</th>
+        </tr>
+    </thead>
+    <tbody id="userList">
+    </tbody>
+</table>
+
+@section Scripts {
+    <script src="~/pageJs/User/listUser.js"></script>
+
+    <script src="~/pageJs/User/getById.js"></script>
+    <script src="~/pageJs/User/deleteUser.js"></script>
+}

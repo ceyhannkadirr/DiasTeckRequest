@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewData["Title"] = "EditUrl";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h1>Url Güncelle</h1>
+<form>
+    <div class="form-group">
+        @Html.Label("Url Adı")
+        <input type="text" placeholder=" Url Adı" id="url_name" class="form-control" />
+        <br /> <br />
+        @Html.Label("Url")
+        <input type="text" placeholder="Url" id="url_value" class="form-control" />
+        <br /><br />
+        <button id="kaydet" class="btn btn-info">Kaydet</button>
+    </div>
+</form>
+@section Scripts{
+    <script src="~/pageJs/Url/editUrl.js"></script>
+}

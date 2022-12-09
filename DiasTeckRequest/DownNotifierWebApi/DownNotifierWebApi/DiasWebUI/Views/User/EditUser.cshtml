@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewData["Title"] = "EditUser";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<<h1>Kullanıcı Güncelle</h1>
+<form >
+    <div class="form-group">
+        @Html.Label("Kullanıcı Adı")
+        <input type="text" placeholder=" Kullanıcı Adı" id="kullanici_adi" class="form-control" />
+        <br /> <br />
+        @Html.Label("Kullanıcı Şifre")
+        <input  type="text"  placeholder="Kullanıcı Şifre" id="kullanici_sifre" class="form-control" />
+        <br /><br />
+        <button  id="guncelle" class="btn btn-info">Güncelle</button>
+    </div>
+</form>
+@section Scripts{
+    <script src="~/pageJs/User/editUser.js"></script>
+}
+

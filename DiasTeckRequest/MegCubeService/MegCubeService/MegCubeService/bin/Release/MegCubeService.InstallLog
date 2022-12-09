@@ -1,0 +1,13 @@
+﻿'C:\Users\Kadir\Dropbox\PC\Downloads\MegCubeService\MegCubeService\MegCubeService\bin\Release\MegCubeService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Kadir\Dropbox\PC\Downloads\MegCubeService\MegCubeService\MegCubeService\bin\Release\MegCubeService.InstallLog
+   assemblypath = C:\Users\Kadir\Dropbox\PC\Downloads\MegCubeService\MegCubeService\MegCubeService\bin\Release\MegCubeService.exe
+C:\Users\Kadir\Dropbox\PC\Downloads\MegCubeService\MegCubeService\MegCubeService\bin\Release\MegCubeService.exe derlemesinde RunInstallerAttribute.Yes özniteliğine sahip ortak yükleyiciler bulunamadı.
+'C:\Users\Kadir\Dropbox\PC\Downloads\MegCubeService\MegCubeService\MegCubeService\bin\Release\MegCubeService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Kadir\Dropbox\PC\Downloads\MegCubeService\MegCubeService\MegCubeService\bin\Release\MegCubeService.InstallLog
+   assemblypath = C:\Users\Kadir\Dropbox\PC\Downloads\MegCubeService\MegCubeService\MegCubeService\bin\Release\MegCubeService.exe
+C:\Users\Kadir\Dropbox\PC\Downloads\MegCubeService\MegCubeService\MegCubeService\bin\Release\MegCubeService.exe derlemesinde RunInstallerAttribute.Yes özniteliğine sahip ortak yükleyiciler bulunamadı.
+Yükleyici olmadığından InstallState dosyası kaldırılmalı.

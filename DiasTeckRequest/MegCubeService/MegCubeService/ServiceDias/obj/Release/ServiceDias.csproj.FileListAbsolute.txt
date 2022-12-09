@@ -1,0 +1,9 @@
+C:\Users\Kadir\source\repos\MegCubeService\ServiceDias\bin\Release\ServiceDias.exe.config
+C:\Users\Kadir\source\repos\MegCubeService\ServiceDias\bin\Release\ServiceDias.exe
+C:\Users\Kadir\source\repos\MegCubeService\ServiceDias\bin\Release\ServiceDias.pdb
+C:\Users\Kadir\source\repos\MegCubeService\ServiceDias\obj\Release\ServiceDias.csproj.AssemblyReference.cache
+C:\Users\Kadir\source\repos\MegCubeService\ServiceDias\obj\Release\ServiceDias.ProjectInstaller.resources
+C:\Users\Kadir\source\repos\MegCubeService\ServiceDias\obj\Release\ServiceDias.csproj.GenerateResource.cache
+C:\Users\Kadir\source\repos\MegCubeService\ServiceDias\obj\Release\ServiceDias.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\source\repos\MegCubeService\ServiceDias\obj\Release\ServiceDias.exe
+C:\Users\Kadir\source\repos\MegCubeService\ServiceDias\obj\Release\ServiceDias.pdb

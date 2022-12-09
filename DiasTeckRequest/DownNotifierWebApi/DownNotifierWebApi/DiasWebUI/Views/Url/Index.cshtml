@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<a href="/url/addUrl" class="btn btn-primary float-lg-right">Url Ekle</a>
+<h1>Url Listesi</h1>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Url Adı</th>
+            <th>Url</th>
+            <th>Güncelle</th>
+            <th>Sil</th>
+        </tr>
+    </thead>
+    <tbody id="urlList">
+    </tbody>
+</table>
+
+@section Scripts {
+    <script src="~/pageJs/Url/listUrl.js"></script>
+
+    <script src="~/pageJs/Url/getById.js"></script>
+    <script src="~/pageJs/Url/deleteUrl.js"></script>
+}
